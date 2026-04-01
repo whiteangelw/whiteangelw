@@ -1,4 +1,4 @@
-# Olá, eu sou o Pedro Felipe! 👋
+# Olá, me chamo Pedro! 👋
 
 ### **Software Engineering Student | Backend Development (.NET)**
 
