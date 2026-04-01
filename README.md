@@ -33,11 +33,12 @@ Estudante de Engenharia de Software focado no desenvolvimento de sistemas escal�
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
-  <a href="" target="_blank" rel="noreferrer"> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> 
   </a>
 </p>
 
+* **Linguagens & Frameworks:** C# (.NET 6/.NET 8), ASP.NET Core (Web APIs), Blazor.
 * **Persistência:** Entity Framework Core, SQL Server e MySQL.
 * **Engenharia & Qualidade:** Princípios SOLID, POO e Git Flow.
 * **Ferramentas:** Postman.
