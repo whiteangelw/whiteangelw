@@ -1,9 +1,5 @@
 # Olá, eu sou o Pedro Felipe! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-DO-GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="pedrofelipe profile views" />
-</p>
-
 ### **Software Engineering Student | Backend Development (.NET)**
 
 Estudante de Engenharia de Software focado no desenvolvimento de sistemas escaláveis e eficientes utilizando o ecossistema .NET. Atualmente, dedico meu tempo ao estudo de arquitetura de software, padrões de projeto e boas práticas de desenvolvimento (Clean Code & SOLID).
@@ -38,7 +34,7 @@ Estudante de Engenharia de Software focado no desenvolvimento de sistemas escal�
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="40" height="40"/> 
+    <img src="" alt="visualstudio" width="40" height="40"/> 
   </a>
 </p>
 
