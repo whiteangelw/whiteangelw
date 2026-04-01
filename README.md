@@ -6,7 +6,7 @@ Estudante de Engenharia de Software focado no desenvolvimento de sistemas escal�
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Stack
 
 <p align="left">
   <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"> 
