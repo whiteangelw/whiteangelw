@@ -51,7 +51,7 @@ Estudante de Engenharia de Software focado no desenvolvimento de sistemas escalÃ
 ### ğŸ“ˆ GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whiteangelw&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&theme=transparent" />
 </p>
 
